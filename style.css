@@ -3,7 +3,6 @@ body{
     background-image: url(🔥⚽Digital\ kerugoya\ sportiff\(2nd\)⚽🔥\ 20220507_204722.jpg);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder;
-    background-size: cover;
 }
 big-container{
     width:100%;
@@ -18,6 +17,7 @@ big-container{
     box-shadow:0 0 20px #000;
     animation:fade 3s ease-in-out fowards;
     opacity:0;
+    background-size: cover;
 }
 @keyframes fade{
     to(opacity:1;)
@@ -26,6 +26,7 @@ big-container{
     width:100%;
     height: 100%;
     overflow: auto;
+    background-size: cover;
 }
 ::-webkit-scrollbar{
     display: none;
@@ -131,40 +132,40 @@ section p1{
     transition: 0.5s;
 }
 section p2{
-    color: aqua;
+    color: blue;
 }
 section p3{
-    color: aqua;
+    color: blue;
 }
 section p4{
-    color: aqua;
+    color: blue;
 }
 section p5{
-    color: aqua;
+    color: blue;
 }
 section p6{
-    color: aqua;
+    color: blue;
 }
 section p7{
-    color: aqua;
+    color: blue;
 }
 section p8{
-    color: aqua;
+    color: blue;
 }
 section p9{
-    color: aqua;
+    color: blue;
 }
 section p10{
-    color: aqua;
+    color: blue;
 }
 section p11{
-    color: aqua;
+    color: blue;
 }
 section p12{
-    color: aqua;
+    color: blue;
 }
 section p13{
-    color: aqua;
+    color: blue;
 }
 section p1:hover{
     -webkit-text-stroke:2px white;
