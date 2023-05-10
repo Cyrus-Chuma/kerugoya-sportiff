@@ -81,7 +81,7 @@ section{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    text-align: center;
+    text-align: 20px left;
 }
 header h1{
     color: aqua;
