@@ -147,6 +147,8 @@
     .navbar-toggle {
         display: block;
         float: right;
+        padding-right: 8px;
+
       }
      
       
