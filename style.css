@@ -235,6 +235,16 @@
         width: 30px;
         height: 30px;
       }
+      .fixtures {
+           width: 100%;
+           height: 80vh;
+          }
+      .fixtures img {
+        width: 60%;
+        height: 90%;
+      }
+      
+
   
   
     
@@ -249,269 +259,14 @@
       .tm-captain{
         width: 75%;
       }
-    }
+      .fixtures {
+        width: 100%;
+        padding-left: 10px;
+      }
+      .fixtures img {
+        width: 100%;
+      }
+      
+      
+  }
   
-  
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* body{
-    min-height: 100vh;
-<<<<<<< HEAD
-    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(🔥⚽Digital\ kerugoya\ sportiff\(2nd\)⚽🔥\ 20220507_204722.jpg);
-=======
-    background-image: url(🔥⚽Digital\ kerugoya\ sportiff\(2nd\)⚽🔥\ 20220507_204722.jpg);
->>>>>>> 020a0caaca7559f6738961ef1161a017ecd1978c
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: bolder;
-}
-big-container{
-    width:100%;
-    height:95vh;
-    max-width: 1200px;
-    position: absolute;
-    top: 50%;
-    left:50%;
-    transform:translate(-50%,-50%);
-    overflow: hidden;
-    border-radius:10px;
-    box-shadow:0 0 20px #000;
-    animation:fade 3s ease-in-out fowards;
-    opacity:0;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-@keyframes fade{
-    to(opacity:1;)
-}
-.container{
-    width:100%;
-    height: 100%;
-    overflow: auto;
-    
-}
-::-webkit-scrollbar{
-    display: none;
-}
-video{
-    position: absolute;
-    top:0;
-    left:0;
-    width: 100%;
-    height: 100%;
-    display: block;
-    object-fit: cover;
-    z-index: -1;
-}
-header nav{
-float: left;
-display: flex;
-flex-wrap: wrap;
-margin-right: 20px;
-justify-content: center;
-align-items: center;
-}
-a{
-    font-size: 60px;
-    color: aqua;
-}
-nav ul li{
-    display: inline-block;
-}
-@media(max-width:100px){
-    header nav{
-        width:100%;
-        margin:0;
-        text-align: center;
-        height: 100%;
-    }
-}
-@media(max-width:850px){
-    nav ul{
-        min-width: 300px;
-        margin:0;
-    }
-    nav ul a{
-        padding:5px 10px;
-    }
-}
-section{
-    width: 100%;
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    text-align: 20px left;
-}
-header h1{
-    color: aqua;
-    transition: 0.5s;
-}
-header h1:hover{
-    -webkit-text-stroke:2px white;
-    color: transparent;
-}
-header h2{
-    color: aqua;
-    transition: 0.5s;
-}
-header h2:hover{
-    -webkit-text-stroke:2px white;
-    color: transparent;
-}
-section h3{
-    color: blue;
-    padding: 0%;
-}
-section h4{
-    color: blue;
-    padding: 0%;
-}
-section h5{
-    color: blue;
-    padding: 0%;
-}
-section h6{
-    color: blue;
-    padding: 0%;
-}
-section h7{
-    color: blue;
-    padding: 0%;
-}
-section h8{
-    color: blue;
-    padding: 0%;
-}
-section h9{
-    color: blue;
-    padding: 0%;
-}
-section p1{
-    color: aqua;
-    padding: 0%;
-    font-size: 20PX;
-}
-section p2{
-<<<<<<< HEAD
-    color: aqua;
-}
-section p3{
-    color: aqua;
-}
-section p4{
-    color: aqua;
-}
-section p5{
-    color: aqua;
-}
-section p6{
-    color: aqua;
-}
-section p7{
-    color: aqua;
-}
-section p8{
-    color: aqua;
-}
-section p9{
-    color: aqua;
-}
-section p10{
-    color: aqua;
-}
-section p11{
-    color: aqua;
-}
-section p12{
-    color: aqua;
-}
-section p13{
-    color: aqua;
-}
-section p1:hover{
-    -webkit-text-stroke:2px white;
-    color: transparent;
-=======
-    color: blue;
->>>>>>> 020a0caaca7559f6738961ef1161a017ecd1978c
-}
-section p3{
-    color: blue;
-}
-section p4{
-    color: blue;
-}
-section p5{
-    color: blue;
-}
-section p6{
-    color: blue;
-}
-section p7{
-    color: blue;
-}
-section p8{
-    color: blue;
-}
-section p9{
-    color: blue;
-}
-section p10{
-    color: blue;
-}
-section p11{
-    color: blue;
-}
-section p12{
-    color: blue;
-}
-section p13{
-    color: blue;
-}
-
-@media all and(max-width:500px){
-    img{
-        width:100%;
-    }
-}
-img{
-    background-size: cover;
-    width: 70%;
-<<<<<<< HEAD
-}
- */
-=======
-}
-table,th,td{
-    border: 5px solid white;
-    border-collapse: collapse;
-}
-th,td{
-    background-color: aqua;
-}
-
-  
-  
-  
-  
-  
-  
-
->>>>>>> 020a0caaca7559f6738961ef1161a017ecd1978c
