@@ -167,12 +167,12 @@
     .list-menu{
       background-color: navy;
       background-size: cover;
-      height: 70vh;
+      height: 90vh;
       display: flex;
       justify-content: flex-start;
       flex-direction: column;
       align-items: center;
-      gap: 1rem;
+      gap: 2rem;
       list-style-type: none;
     
     }
