@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav2{
+    background-color: navy;
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  }
+   
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    margin: 10px;
+}
+.table {
+    overflow: scroll;
+    padding-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}
+
+@media (max-width: 600px) {
+    table {
+        font-size: 8px;
+    }
+
+    th, td {
+        padding: 5px;
+    }
+}
