@@ -44,3 +44,10 @@ th {
         padding: 5px;
     }
 }
+
+@media (min-width: 600px) {
+   p {
+    font-size: 20px;
+   }
+
+}
