@@ -34,3 +34,10 @@
     }
  
  }
+ @media (max-width: 600px) {
+    .container {
+     background-image: url(IMAGES/logo.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+    }
+}
