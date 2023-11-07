@@ -13,7 +13,7 @@
   
   }
   .container {
-    background-image: url(IMAGES/logo.jpg);
+    background-image: url(/IMAGES/logo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
