@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav2{
+    background-color: navy;
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  }
+  .about {
+    background-image: url(/IMAGES/logo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 98%;
+    margin: 0 auto;
+    padding-left: 10px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+  }
+
+  @media only screen and (max-width: 600px) {
+    .about{
+        background-image: url(/IMAGES/logo.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 95%;
+        margin: 0 auto;
+        padding-left: 10px;
+        box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    
+      }
+    }
