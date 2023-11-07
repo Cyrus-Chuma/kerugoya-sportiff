@@ -254,9 +254,6 @@
         flex-direction: column;
         width: 100%;
       }
-      .about{
-        width: 100%;
-      }
       .tm-captain{
         width: 75%;
       }
@@ -266,6 +263,16 @@
       }
       .fixtures img {
         width: 100%;
+      }
+      .about{
+        background-image: url(/IMAGES/logo.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 95%;
+        margin: 0 auto;
+        padding-left: 10px;
+        box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    
       }
       
       
