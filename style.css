@@ -167,7 +167,7 @@
     .list-menu{
       background-color: navy;
       background-size: cover;
-      height: 90vh;
+      height: 100vh;
       display: flex;
       justify-content: flex-start;
       flex-direction: column;
